@@ -1,6 +1,7 @@
 # Mapping Workshops
 
-09/17/2019 - Intro to Mapping Using QGIS ([Guide](https://github.com/javo0101/introGIS/tree/Simplified)) ([Slides](2019Fall-Mapping/Components-of-a-GIS-map.pdf))
+09/17/2019 - Intro to Mapping Using QGIS ([Guide](https://github.com/javo0101/introGIS/tree/Simplified)) 
+Components of Mapping ([Slides](2019Fall-Mapping/Components-of-a-GIS-map.pdf))
 # Related Links 
 
 [GIS/Mapping Working Group](https://commons.gc.cuny.edu/groups/gis-working-group/) 
