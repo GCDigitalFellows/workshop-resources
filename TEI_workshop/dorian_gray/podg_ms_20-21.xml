@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Picture of Dorian Gray: Original Manuscript</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished manuscript</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Wilde, Oscar. "The Picture of Dorian Gray: Original Manuscript." MS. 1889. Morgan Library and Museum. New York, NY.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <sourceDoc>
+      <surface>
+         <line>"You</line>
+         <line>remember that landscape of mine, for</line>
+         <line>which Agnew offered me <gap reason="deleted"></gap> a</line>
+         <line><gap reason="illegible"></gap><add place="above">huge</add>price, but which I would</line>
+         <line>not part with? It is one of the</line>
+         <line>best things I have ever done. And</line>
+         <line>why is it so? Because, while I</line>
+         <line>was painting it, Dorian Gray sat</line>
+         <line>beside me, <del rend="strikethrough">and as he leaned across</del></line>
+         <line>
+            <del rend="strikethrough">to look at it, his</del> 
+            <mod>
+               <del rend="strikethrough">cheek</del>
+               <add place="above" rend="strikethrough">hair</add>
+            </mod>
+            <del rend="strikethrough">just</del>
+         </line>
+         <line>
+            <mod>
+               <del rend="strikethrough">brushed</del>
+               <add rend="strikethrough" place="above">touched</add>
+            </mod>
+            <mod>
+               <del rend="strikethrough">my cheek</del>
+               <add rend="strikethrough" place="above">hand.</add>
+            <del rend="strikethrough">The world becomes</del>
+            </mod>
+         </line>
+         <line><del rend="strikethrough">young to me when I hold his hand,</del></line>
+         <line>as when I ask him the <gap reason="illegible"></gap></line>
+         <line>
+            <del rend="strikethrough">yield</del>
+            <gap reason="illegible"></gap>
+            <del rend="strikethrough">their</del>
+            <gap reason="illegible"></gap>
+         </line>
+         <line>"Basil, this is
+            <add place="above">quite wonderful. I </add>
+            <gap reason="illegible"></gap>
+            <del rend="strikethrough">must</del>
+         </line>
+         <line>you must not talk
+            <add rend="above">must see Dorian Gray</add>
+            <gap reason="illegible"></gap>
+         </line>
+         <line>
+            <gap reason="illegible"></gap>
+            <del rend="strikethrough">his power, you</del>
+            <gap reason="illegible"></gap>
+         </line>
+         <line>
+            <gap reason="illegible"></gap>
+            to make yourself
+         </line>
+         <line>the
+            <gap reason="illegible"></gap>of
+            <gap reason="illegible"></gap> slave! It is 
+         </line>
+         <line>worse that wicked, it is silly. I</line>
+         <line>hate Dorian Gray."</line>
+         <line>Hallward got up from the seat,</line>
+         <line>and walked up and down the</line>
+         <line>garden.<del rend="strikethrough">A curious smile curled</del></line>
+         <line><del rend="strikethrough">his lips. He seemed like a man</del></line>
+         <line><del rend="strikethrough">in a dream.</del> After some time he</line>
+         <line>came back. "You don't understand,</line>
+         <line>Harry..." he said. "Dorian Gray is</line>
+         <line>merely to me a motive in art. He</line>
+         <line>is never more present in my work</line>
+         <line>then when no image of him is</line>
+         <line>there. He is simply a suggestion, as</line>
+         <line>I have said, of a new manner.</line>
+         <line>I see him in the curves of certain lines, in</line>
+         <line>the loveliness and subtleties of</line>
+         <line>certain colours. That is all."</line>
+         <line>"Then why won't you exhibit his</line>
+         <line>
+            <mod>
+               <del rend="strikethrough">picture?</del>
+               <add rend="strikethrough" place="above">portrait?</add>
+            </mod>
+         </line>
+         <line>"Because I have put into it 
+            <add place="above">all</add>the
+         </line>
+         <line>
+              <add place="above">extraordinary</add>romance of which,
+              <add place="above">of course,</add>I have never
+         </line>
+         <line>dared to speak to him. He knows</line>
+         <line>nothing about it,
+            <add place="above">he will never know anything about it,</add>but the world
+            <gap reason="illegible"></gap>
+         </line>
+         <line>
+            <add place="above">might</add>guess it
+            <add place="above">and</add>
+            <del rend="strikethrough">where there is</del>
+         </line>
+         <line><del rend="strikethrough">merely love, they would see something</del></line>
+         <line><del rend="strikethrough">evil, where there is spectacular passion</del></line>
+         <line><del rend="strikethrough">they would suggest something vile.</del></line>
+         <line>I will not bear my soul to their</line>
+         <line>shallow<add place="above">prying</add>eyes. My heart shall</line>
+         <line>
+            <del rend="strikethrough">not be made their mockery</del>
+            <add place="above">never be put under their microscope.</add> There
+         </line>
+         <line>is too much of myself in 
+            <gap reason="illegible"></gap>
+            <add place="above">the thing,</add>
+         </line>
+         <line>Harry, too much of myself!</line>
+      </surface>
+   </sourceDoc>
+</TEI>
