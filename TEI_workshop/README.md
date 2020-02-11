@@ -1,10 +1,10 @@
-## Welcome! 
+## The Graduate Center Digital Initiatives
 
 First, welcome to this workshop, sponsored by the Graduate Center Digital Initiatives, and in particular, the Digital Fellows. GCDI offers different kinds of support for digital scholarship in the GC. Some of the more popular resources we offer are regular workshops (like this one), walk-in office hours (in room 7417, the Digital Scholarship Lab), working groups based around common tools or data sources (such as python or mapping), special events (check our calendar!) and online resources. 
 
 Some ways to get involved: 
 - Check the [Event Calendar](cuny.is/workshops) for upcoming events and workshops: cuny.is/workshops
-- Drop-in to Office Hours on alternating Mondays 3-5pm and Wednesdays 5-7pm in the Digital Scholarship Lab, room 7414. [Visit the Digital Fellows website for current dates](https://digitalfellows.commons.gc.cuny.edu/digital-fellows-office-hours/).
+- Drop-in to Office Hours in the Digital Scholarship Lab, room 7414. Dates and times on the calendar.
 - Follow GCDI or the Digital Fellows on Twitter: [@cunygcdi](https://twitter.com/cunygcdi?lang=en) and [@digital_fellows](https://twitter.com/digital_fellows?lang=en).
 - Follow (and post to!) the **#digitalGC** hashtag on Twitter
 - Join [the GCDI Group](cuny.is/group-gcdi) on the CUNY Academic Commons for all GCDI-related updates! cuny.is/group-gcdi
@@ -39,7 +39,8 @@ For today's workshop, we will be delving into the workings of TEI and practice u
 [Basic Architecture](slides/basic_architecture.md)\
 [Preliminary Questions for Document Analysis](slides/preliminary.md)\
 [Elements for Primary Source Encoding](slides/elements.md)\
-[Try it yourself!](slides/practice.md)
+[Try it yourself!](slides/practice.md)\
+[Next Steps](slides/next_steps.md)
 
 ## Resources
 
