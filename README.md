@@ -7,4 +7,6 @@ A collection of handouts, cheatsheets, and other resources from Digital Fellows 
 
 [Tools for the Digital Humanities](/ToolsofDH-Filipa.pdf/)
 
-[Text Encoding (TEI)](/TEI_workshop/)
+[Text Encoding (TEI)](/TEI_workshop/)  
+
+[R](/R)
