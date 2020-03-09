@@ -11,4 +11,4 @@ A collection of handouts, cheatsheets, and other resources from Digital Fellows 
 
 [R](/R)
 
-[Audacity for Interviews](/Using Audacity for Interviews.pdf)
+[Sound](/Sound)
