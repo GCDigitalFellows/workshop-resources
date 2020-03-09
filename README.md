@@ -10,3 +10,5 @@ A collection of handouts, cheatsheets, and other resources from Digital Fellows 
 [Text Encoding (TEI)](/TEI_workshop/)  
 
 [R](/R)
+
+[Audacity for Interviews](/Audacity)
