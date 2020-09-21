@@ -3,6 +3,8 @@ A collection of handouts, cheatsheets, and other resources from Digital Fellows 
 
 ### Select the topic you are interested in consulting
 
+[Open House (2020)](GCDF_OH2020.pdf)
+
 [Mapping](Mapping) 
 
 [Tools for the Digital Humanities](/ToolsofDH-Filipa.pdf/)
