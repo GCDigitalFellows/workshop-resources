@@ -15,4 +15,4 @@ A collection of handouts, cheatsheets, and other resources from Digital Fellows 
 
 [Sound](/Sound)
 
-[Beginner's Guide to Web Scraping](/web-scraping.pdf/)
+[Beginner's Guide to Web Scraping](/BeginnerGuidetoWebScraping.pdf/)
